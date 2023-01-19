@@ -7,7 +7,7 @@ Here you can follow teaching material similar to that which Qiskit provides.
 Classical information and its properties will be compared to quantum information such that the
 reader can achieve an intuitive understanding of probabilistics and geometrical properties of 
 quantum states. Furthermore, some notebooks provide an in depth dive into quantum algorithms 
-that are widely used in the field.
+that are widely used in the field, such as Grover's algorithm, Variational Quantum Eigensolver (VQE), and many more.
 
 
 1. Educational notebooks
